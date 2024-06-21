@@ -1,0 +1,26 @@
+{
+  "name": "jungleapi",
+  "version": "1.0.0",
+  "description": "Homework of API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosdomingg/API-Jungle.git"
+  },
+  "keywords": [
+    "Homework",
+    "Php"
+  ],
+  "author": "Marcos Domínguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosdomingg/API-Jungle/issues"
+  },
+  "homepage": "https://github.com/marcosdomingg/API-Jungle#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
